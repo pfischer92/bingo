@@ -20,10 +20,10 @@ public class BingoModel {
 		
 		// https://www.besprechungsbingo.de/
 		DATA.put("Besprechungen", Arrays.asList(
-				"Synergie", "Sich schlau machen", "Wertschöpfung", "Ball zuspielen", 
-				"Global Player", "Kommunizieren", "Kunden orientiert", "Target",
-				"Problematik", "Proaktiv", "Visionen", "Fokussieren", 
-				"Zielführend", "Bilateral", "Hut aufhaben", "Wertschätzend", "Ich bin blockiert!"));
+				"Synergie", "Sich schlau machen", "Wertschöpfung", "Das habe ich nicht verstanden!", 
+				"Transparenz", "Kurzarbeit", "Maske", "Target",
+				"Desinfektionsmittel", "Proaktiv", "Visionen", "Fokussieren", 
+				"Zielführend", "Ich verstehe", "Task", "verschoben", "Ich bin blockiert!"));
 	}
 	
 	public static List<String> getData(String key) {
